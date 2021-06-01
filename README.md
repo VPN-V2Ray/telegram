@@ -1,5 +1,7 @@
 # 解决 Telegram 不能私聊｜汉化｜代理｜注销
 
+[![](https://img.shields.io/badge/Twitter-%E6%8E%A8%E7%89%B9-%231BA1F3)](https://twitter.com/yifangme) [![](https://img.shields.io/badge/Telegram-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%2323A5E4)](https://t.me/v2expro) 
+
 ### 一、汉化
 
 Telegram 搜索 [@zh_cn](https://t.me/zh_CN/483)，点击安装语言包。
