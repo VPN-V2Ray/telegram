@@ -19,7 +19,7 @@ Telegram 搜索 [@zh_cn](https://t.me/zh_CN/483)，点击安装语言包。
 4. 选择 No
 5. 输入 accident
 
-**方法二**：绑定境外号码，例如， [Google Voice](https://github.com/liuour/GoogleVoice)。
+**方法二**：绑定境外号码，例如 [Google Voice](https://github.com/liuour/GoogleVoice)。
 
 ---
 
